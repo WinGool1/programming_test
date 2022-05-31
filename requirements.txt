@@ -1,0 +1,9 @@
+# mai
+toml
+math
+matplotlib
+numpy
+os
+# development
+black
+pytest
